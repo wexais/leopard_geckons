@@ -1,0 +1,78 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 25px;
+  text-align: center;
+}
+h1 {
+   color: rgb(110, 206, 118);
+}
+main h2 {
+color: rgb(117, 194, 131);
+background-color:  #b5f5bb;
+border-radius: 250px;
+text-align: center;
+}
+header {
+  background-color: rgb(155, 226, 155);
+  border-radius: 20px;
+  text-align: center;
+}
+main {
+text-align: center;
+}
+footer {
+  background-color:  #b5f5bb;
+  border-radius: 50px;
+}
+nav {
+  border: 2px solid rgb(110, 206, 118);
+  padding: 10px 10px;
+  margin: 10px 10px;
+  border-radius: 30px;
+  background-color: rgb(155, 226, 155);
+}
+p {
+  font-size:50px;
+  color: rgb(122, 196, 134);
+  background-color: rgb(248, 245, 248);
+  border-radius: 90px;
+}
+.cutebutton
+{
+  font-size: 30px;
+  margin: 20px 10px;
+  padding: 0px 10px;
+  background-color: rgb(110, 206, 118);
+  color: rgb(163, 226, 157);
+  text-decoration: none;
+  border-radius: 40px;
+}
+.cute {
+  height: 200px;
+}
+p {
+  font-size:30px;
+  color: rgb(117, 194, 131);
+  background-color:  #b5f5bb;
+  border-radius: 50px;
+}
+.cutery {
+  height: 350px;
+  width: 370px;
+}
+main h3 {
+color: rgb(117, 194, 131);
+background-color:  #b5f5bb;
+border-radius: 250px;
+text-align: center;
+}
+footer h2 {
+color: rgb(117, 194, 131);
+border-radius: 250px;
+text-align: center;
+}
+.logocute {
+  height: 50px; 
+  width: 50px;
+  text-align: center;
+}
